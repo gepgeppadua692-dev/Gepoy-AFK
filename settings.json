@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LSMAWD.aternos.me:39565",
+    "ip": "LSMAWD.aternos.me",
     "port": 39565,
     "version": "",
     "try-creative": false
